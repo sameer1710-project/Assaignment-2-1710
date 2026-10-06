@@ -1,0 +1,6 @@
+{
+  "name": "Foodora - Discover. Order. Enjoy.",
+  "description": "Premium food discovery and delivery web application inspired by modern Indian culinary culture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
